@@ -83,4 +83,4 @@ bash make.sh
 - Option 3 (for Window): Only download the `make.bat` file, modify (if need) and double click to run
 
 ## Note:
-- Your might want to remove lines related to `.gitkeep` in the scripts (i.e., `make.sh` or `make.bat`) because it's just a way to keep the empty folder in the `Github` repository.
+- You might want to remove lines related to `.gitkeep` in the scripts (i.e., `make.sh` or `make.bat`) because it's just a way to keep the empty folder in the `Github` repository.
